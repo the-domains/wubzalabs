@@ -11,5 +11,8 @@ color:
     - '#BFBFBF'
     - '#FFFFFF'
 layout_spectrum: 0.5629084210377187
+author:
+  email: michael@wubza.com
+  name: Michael WB
 name: wubzalabs
 title: Welcome to WubzaLabs

@@ -15,4 +15,8 @@ author:
   email: michael@wubza.com
   name: Michael WB
 name: wubzalabs
+navigation:
+  - name: First Post
+    id: 00d0962b-8ce5-4278-92f4-c52a20d0daa9
+    type: content
 title: Welcome to WubzaLabs

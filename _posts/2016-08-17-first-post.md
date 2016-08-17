@@ -1,7 +1,7 @@
 ---
-description: This is my first post!
-dateModified: '2016-08-17T15:50:58.637Z'
-datePublished: '2016-08-17T15:56:20.121Z'
+description: Sample post
+dateModified: '2016-08-17T15:56:04.348Z'
+datePublished: '2016-08-17T15:56:22.735Z'
 title: First Post
 author: []
 publisher: {}
@@ -16,4 +16,4 @@ _type: MediaObject
 ---
 # First Post
 
-This is my first post!
+Sample post

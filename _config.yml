@@ -1,0 +1,14 @@
+layout_spectrum: 0.5629084210377187
+typography_spectrum: 0.16930915811099112
+color:
+  brandStrength: 0.5665240215603262
+  lightness: 0.27707608393393457
+  saturation: 0.7115929799620062
+  rhythmicContrast: 0.8342187826056033
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: wubzalabs

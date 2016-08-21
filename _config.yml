@@ -8,12 +8,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.7115929799620062
   brandStrength: 0.5665240215603262
@@ -25,10 +25,10 @@ color:
     - '#BFBFBF'
     - '#FFFFFF'
   lightness: 0.2770760839339346
-typography_spectrum: 0.8924731
+typography_spectrum: 0.7168459
 navigation:
   - name: First Post
     id: 00d0962b-8ce5-4278-92f4-c52a20d0daa9
     type: content
-layout_spectrum: 0.5629084210377187
+layout_spectrum: 1
 name: wubzalabs
